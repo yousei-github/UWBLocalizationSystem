@@ -1,0 +1,4 @@
+load STM32F446RETx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "D:\Coding\DW1000\DWM1000_workspace_TWR\TWR-F446-OS\RTE\Device\STM32F446RETx\" 
