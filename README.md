@@ -5,3 +5,8 @@ This is a localization system based on ultra-wideband technologies for the gradu
 Please use keil to program this project, such as compile, debug.
 
 Link: https://www.keil.com/
+
+## About the hardware
+Please use altium designer to open the hardware design files.
+
+Link: https://www.altium.com/
